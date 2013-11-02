@@ -1,1 +1,0 @@
-/Users/prpatel/dev/titanium/VoterLab/Resources/app.js

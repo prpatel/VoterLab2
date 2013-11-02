@@ -1,1 +1,0 @@
-/Users/prpatel/dev/titanium/VoterLab/Resources/lab6-b.js
